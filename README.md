@@ -1,1 +1,1 @@
-Very WIP tracing of SEGAs Secret Base
+Traced SEGAs Secret Base Board
