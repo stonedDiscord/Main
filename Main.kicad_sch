@@ -86136,7 +86136,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -88722,7 +88722,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -98121,7 +98121,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -98191,7 +98191,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -99646,7 +99646,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -101329,7 +101329,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -121129,7 +121129,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -122554,7 +122554,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -125512,7 +125512,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -130514,7 +130514,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -137932,7 +137932,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -143395,7 +143395,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -146451,7 +146451,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -151357,7 +151357,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -152656,7 +152656,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -163275,7 +163275,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -167924,7 +167924,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -168607,7 +168607,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -170018,7 +170018,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -172038,7 +172038,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -173035,46 +173035,46 @@
 			)
 		)
 		(pin "9"
-			(uuid "4d2ddbe0-4da0-49c7-846c-36f95aade56b")
+			(uuid "4d2ddbe0-4da0-49c7-846c-36f95aade56c")
 		)
 		(pin "5"
-			(uuid "3933b2c2-6698-496c-9d0d-a69d49c66175")
+			(uuid "3933b2c2-6698-496c-9d0d-a69d49c66176")
 		)
 		(pin "6"
-			(uuid "1d4aa846-3b38-489f-9914-dd56712bd3a6")
+			(uuid "1d4aa846-3b38-489f-9914-dd56712bd3a7")
 		)
 		(pin "7"
-			(uuid "d8368390-40a7-4493-bf5e-5dbc14a4531f")
+			(uuid "d8368390-40a7-4493-bf5e-5dbc14a45320")
 		)
 		(pin "4"
-			(uuid "458c8774-cd57-4984-add2-ea8e03a3a649")
+			(uuid "458c8774-cd57-4984-add2-ea8e03a3a64a")
 		)
 		(pin "14"
-			(uuid "30a070af-3dac-4405-9541-e9ed0b821646")
+			(uuid "30a070af-3dac-4405-9541-e9ed0b821647")
 		)
 		(pin "11"
-			(uuid "251e08bb-f13e-436b-9c80-9bf22820acc6")
+			(uuid "251e08bb-f13e-436b-9c80-9bf22820acc7")
 		)
 		(pin "2"
-			(uuid "ef26f3ef-55fb-4391-bc85-5682491c796d")
+			(uuid "ef26f3ef-55fb-4391-bc85-5682491c796e")
 		)
 		(pin "10"
-			(uuid "dcc863ed-5d0b-4548-a231-db18b2eab206")
+			(uuid "dcc863ed-5d0b-4548-a231-db18b2eab207")
 		)
 		(pin "12"
-			(uuid "6e5124d2-cc11-419b-90c4-e162c5c957d0")
+			(uuid "6e5124d2-cc11-419b-90c4-e162c5c957d1")
 		)
 		(pin "3"
-			(uuid "c711d478-3f97-4886-97a2-bb8a9b825e68")
+			(uuid "c711d478-3f97-4886-97a2-bb8a9b825e69")
 		)
 		(pin "1"
-			(uuid "549f374f-746d-4c88-a0ac-9194c9789789")
+			(uuid "549f374f-746d-4c88-a0ac-9194c978978a")
 		)
 		(pin "8"
-			(uuid "19732e2e-fcb1-4bdd-8bfd-435004b12f91")
+			(uuid "19732e2e-fcb1-4bdd-8bfd-435004b12f92")
 		)
 		(pin "13"
-			(uuid "93052e8c-9598-4c72-b9d2-de877adfcf1e")
+			(uuid "93052e8c-9598-4c72-b9d2-de877adfcf1f")
 		)
 		(instances
 			(project ""
@@ -174091,7 +174091,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -180177,7 +180177,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -181271,7 +181271,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -182816,7 +182816,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 1341.12 -124.7648 0)
 			(effects
 				(font
@@ -192767,7 +192767,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -193622,7 +193622,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -196729,7 +196729,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -200571,7 +200571,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -200641,7 +200641,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
@@ -209680,7 +209680,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -90.17 -304.4952 0)
 			(effects
 				(font
@@ -209843,46 +209843,46 @@
 			)
 		)
 		(pin "9"
-			(uuid "4d2ddbe0-4da0-49c7-846c-36f95aade56b")
+			(uuid "4d2ddbe0-4da0-49c7-846c-36f95aade56d")
 		)
 		(pin "5"
-			(uuid "3933b2c2-6698-496c-9d0d-a69d49c66175")
+			(uuid "3933b2c2-6698-496c-9d0d-a69d49c66177")
 		)
 		(pin "6"
-			(uuid "1d4aa846-3b38-489f-9914-dd56712bd3a6")
+			(uuid "1d4aa846-3b38-489f-9914-dd56712bd3a8")
 		)
 		(pin "7"
-			(uuid "d8368390-40a7-4493-bf5e-5dbc14a4531f")
+			(uuid "d8368390-40a7-4493-bf5e-5dbc14a45321")
 		)
 		(pin "4"
-			(uuid "458c8774-cd57-4984-add2-ea8e03a3a649")
+			(uuid "458c8774-cd57-4984-add2-ea8e03a3a64b")
 		)
 		(pin "14"
-			(uuid "30a070af-3dac-4405-9541-e9ed0b821646")
+			(uuid "30a070af-3dac-4405-9541-e9ed0b821648")
 		)
 		(pin "11"
-			(uuid "251e08bb-f13e-436b-9c80-9bf22820acc6")
+			(uuid "251e08bb-f13e-436b-9c80-9bf22820acc8")
 		)
 		(pin "2"
-			(uuid "ef26f3ef-55fb-4391-bc85-5682491c796d")
+			(uuid "ef26f3ef-55fb-4391-bc85-5682491c796f")
 		)
 		(pin "10"
-			(uuid "dcc863ed-5d0b-4548-a231-db18b2eab206")
+			(uuid "dcc863ed-5d0b-4548-a231-db18b2eab208")
 		)
 		(pin "12"
-			(uuid "6e5124d2-cc11-419b-90c4-e162c5c957d0")
+			(uuid "6e5124d2-cc11-419b-90c4-e162c5c957d2")
 		)
 		(pin "3"
-			(uuid "c711d478-3f97-4886-97a2-bb8a9b825e68")
+			(uuid "c711d478-3f97-4886-97a2-bb8a9b825e6a")
 		)
 		(pin "1"
-			(uuid "549f374f-746d-4c88-a0ac-9194c9789789")
+			(uuid "549f374f-746d-4c88-a0ac-9194c978978b")
 		)
 		(pin "8"
-			(uuid "19732e2e-fcb1-4bdd-8bfd-435004b12f91")
+			(uuid "19732e2e-fcb1-4bdd-8bfd-435004b12f93")
 		)
 		(pin "13"
-			(uuid "93052e8c-9598-4c72-b9d2-de877adfcf1e")
+			(uuid "93052e8c-9598-4c72-b9d2-de877adfcf20")
 		)
 		(instances
 			(project ""
@@ -214092,7 +214092,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal"
 			(at -171.1452 248.92 0)
 			(effects
 				(font
