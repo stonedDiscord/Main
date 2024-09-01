@@ -82648,7 +82648,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33u 10V"
+		(property "Value" "47u 10V"
 			(at 734.695 -31.369 0)
 			(effects
 				(font
@@ -84351,7 +84351,7 @@
 		(fields_autoplaced yes)
 		(uuid "01e5311e-29af-4694-b8e9-4e28c63a956a")
 		(property "Reference" "C1"
-			(at -75.565 11.811 0)
+			(at -73.66 11.8109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84359,8 +84359,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
-			(at -75.565 14.351 0)
+		(property "Value" "470u 16V"
+			(at -73.66 14.3509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84850,7 +84850,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "680p"
 			(at 1433.83 -398.145 90)
 			(effects
 				(font
@@ -86500,7 +86500,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1M"
 			(at 1323.975 -358.14 90)
 			(effects
 				(font
@@ -87090,7 +87090,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1M"
 			(at 774.065 -468.63 90)
 			(effects
 				(font
@@ -87700,7 +87700,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "100"
 			(at -83.185 -292.1 90)
 			(effects
 				(font
@@ -88887,7 +88887,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Power"
+		(property "Value" "33"
 			(at 105.41 -71.12 0)
 			(effects
 				(font
@@ -89884,7 +89884,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "220"
 			(at 1442.085 -311.15 90)
 			(effects
 				(font
@@ -91666,7 +91666,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 104.14 -118.745 90)
 			(effects
 				(font
@@ -93313,7 +93313,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1u"
 			(at 1227.455 97.79 90)
 			(effects
 				(font
@@ -93902,34 +93902,32 @@
 	(symbol
 		(lib_id "Device:C_Polarized")
 		(at 152.4 -95.25 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1650a9d3-41f3-4b8e-88ff-e0eb33f331e5")
 		(property "Reference" "C57"
-			(at 147.32 -97.409 0)
+			(at 148.59 -97.4091 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "C_Polarized"
-			(at 147.32 -94.869 0)
+		(property "Value" "10u 10V"
+			(at 148.59 -94.8691 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
-			(at 151.4348 -91.44 0)
+			(at 153.3652 -91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -96993,7 +96991,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.01u"
 			(at 1676.4 60.325 90)
 			(effects
 				(font
@@ -97260,7 +97258,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "100"
 			(at 140.97 -114.935 90)
 			(effects
 				(font
@@ -100259,7 +100257,7 @@
 				)
 			)
 		)
-		(property "Value" "220Ω"
+		(property "Value" "220"
 			(at 874.395 -77.47 90)
 			(effects
 				(font
@@ -100729,15 +100727,15 @@
 		(fields_autoplaced yes)
 		(uuid "2417b15a-afcb-4908-9a75-afc89c73a93b")
 		(property "Reference" "C62"
-			(at 635 -501.65 90)
+			(at 635 -500.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "C"
-			(at 635 -499.11 90)
+		(property "Value" "680p"
+			(at 635 -497.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -100804,7 +100802,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "680p"
 			(at 1230.63 207.645 90)
 			(effects
 				(font
@@ -101004,7 +101002,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 180.34 -132.08 90)
 			(effects
 				(font
@@ -101072,7 +101070,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "100"
 			(at 104.14 -112.395 90)
 			(effects
 				(font
@@ -101758,7 +101756,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "680p"
 			(at 1240.79 155.575 90)
 			(effects
 				(font
@@ -102320,19 +102318,21 @@
 		(fields_autoplaced yes)
 		(uuid "278b75c3-6f53-4f76-b17e-f99df7391788")
 		(property "Reference" "R71"
-			(at 1529.08 441.96 90)
+			(at 1525.27 440.6899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 1526.54 441.96 90)
+		(property "Value" "1k"
+			(at 1525.27 443.2299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
@@ -102599,7 +102599,7 @@
 				)
 			)
 		)
-		(property "Value" "220Ω"
+		(property "Value" "220"
 			(at 838.2 -73.025 90)
 			(effects
 				(font
@@ -104450,7 +104450,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 128.27 -128.905 90)
 			(effects
 				(font
@@ -104756,7 +104756,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "47k"
 			(at 1255.395 85.09 90)
 			(effects
 				(font
@@ -105384,7 +105384,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "100"
 			(at 189.23 -132.08 90)
 			(effects
 				(font
@@ -105451,7 +105451,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "100"
 			(at 238.76 -122.555 90)
 			(effects
 				(font
@@ -106583,7 +106583,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "100"
 			(at 204.47 -134.62 90)
 			(effects
 				(font
@@ -106650,7 +106650,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "2.2M"
 			(at 1567.815 304.8 90)
 			(effects
 				(font
@@ -107014,7 +107014,7 @@
 		(fields_autoplaced yes)
 		(uuid "2f0f802c-1fa2-4626-8bb4-5f3257ba31bf")
 		(property "Reference" "C27"
-			(at 1565.275 315.341 0)
+			(at 1565.91 315.3409 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -107022,8 +107022,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
-			(at 1565.275 317.881 0)
+		(property "Value" "0.22u 35V"
+			(at 1565.91 317.8809 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -107392,15 +107392,15 @@
 		(fields_autoplaced yes)
 		(uuid "2fa211fa-6b1d-41d5-b7c3-2d318553b511")
 		(property "Reference" "C26"
-			(at 1532.89 301.625 90)
+			(at 1532.89 300.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "C"
-			(at 1532.89 304.165 90)
+		(property "Value" "0.01u"
+			(at 1532.89 303.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -109449,7 +109449,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 228.6 -123.825 90)
 			(effects
 				(font
@@ -110334,7 +110334,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33u 10V"
+		(property "Value" "10u 10V"
 			(at 901.7 -252.349 0)
 			(effects
 				(font
@@ -110676,7 +110676,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "4.7k"
 			(at 1235.075 97.79 90)
 			(effects
 				(font
@@ -111861,7 +111861,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 177.8 -126.365 90)
 			(effects
 				(font
@@ -111922,15 +111922,15 @@
 		(fields_autoplaced yes)
 		(uuid "36a55c9a-2f17-433f-b9a9-0cc73b2891d6")
 		(property "Reference" "R62"
-			(at 335.28 -53.34 90)
+			(at 335.28 -52.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 335.28 -50.8 90)
+		(property "Value" "220"
+			(at 335.28 -49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -113179,7 +113179,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7kΩ"
+		(property "Value" "4.7k"
 			(at 1073.785 -130.81 90)
 			(effects
 				(font
@@ -113931,7 +113931,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 167.64 -65.405 90)
 			(effects
 				(font
@@ -115623,7 +115623,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 920.115 -39.37 90)
 			(effects
 				(font
@@ -119057,15 +119057,15 @@
 		(fields_autoplaced yes)
 		(uuid "44489e3c-aa07-40ab-b7fd-cd185f96f950")
 		(property "Reference" "C30"
-			(at 1413.891 149.225 90)
+			(at 1413.891 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "C_Polarized"
-			(at 1413.891 151.765 90)
+		(property "Value" "0.22u 35V"
+			(at 1413.891 151.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -119444,7 +119444,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "680p"
 			(at 1279.525 153.67 90)
 			(effects
 				(font
@@ -119981,15 +119981,15 @@
 		(fields_autoplaced yes)
 		(uuid "45749b61-c277-4cc2-9144-5fe62034ca69")
 		(property "Reference" "C24"
-			(at 1291.59 -374.65 90)
+			(at 1291.59 -373.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "C"
-			(at 1291.59 -372.11 90)
+		(property "Value" "0.01u"
+			(at 1291.59 -370.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -120814,7 +120814,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.7k"
 			(at 534.67 -153.035 90)
 			(effects
 				(font
@@ -121051,7 +121051,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "2.2M"
 			(at 1575.435 304.8 90)
 			(effects
 				(font
@@ -123112,7 +123112,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33u 10V"
+		(property "Value" "10u 10V"
 			(at 913.765 -31.369 0)
 			(effects
 				(font
@@ -124313,7 +124313,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "100"
 			(at 96.52 -133.985 90)
 			(effects
 				(font
@@ -125158,15 +125158,15 @@
 		(fields_autoplaced yes)
 		(uuid "4e76b6a5-c5a4-416f-9ca8-a466278f2227")
 		(property "Reference" "C38"
-			(at 780.161 -480.06 90)
+			(at 780.161 -478.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "C_Polarized"
-			(at 780.161 -477.52 90)
+		(property "Value" "0.33u 15V"
+			(at 780.161 -476.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -126022,7 +126022,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10kΩ"
+		(property "Value" "10k"
 			(at 732.155 -109.22 0)
 			(effects
 				(font
@@ -126678,7 +126678,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "220"
 			(at 1123.95 -71.12 90)
 			(effects
 				(font
@@ -127828,15 +127828,15 @@
 		(fields_autoplaced yes)
 		(uuid "53e72817-e3d9-4d4f-b571-34907aaae16d")
 		(property "Reference" "C25"
-			(at 1323.721 -369.57 90)
+			(at 1323.721 -368.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "C_Polarized"
-			(at 1323.721 -367.03 90)
+		(property "Value" "0.33u 35V"
+			(at 1323.721 -365.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -128542,7 +128542,8 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 842.01 -71.12 180)
+		(at 842.01 -71.12 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -128550,7 +128551,7 @@
 		(dnp no)
 		(uuid "548e8e44-0b71-47f9-9633-60809e73166b")
 		(property "Reference" "C19"
-			(at 845.185 -69.85 90)
+			(at 838.835 -69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -128558,8 +128559,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
-			(at 838.2 -70.485 90)
+		(property "Value" "680p"
+			(at 845.82 -70.485 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -128568,7 +128569,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
-			(at 841.0448 -74.93 0)
+			(at 842.9752 -74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -128873,7 +128874,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "220"
 			(at 1449.705 -342.9 90)
 			(effects
 				(font
@@ -129280,7 +129281,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 78.74 -126.365 90)
 			(effects
 				(font
@@ -129592,7 +129593,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 179.07 -116.205 90)
 			(effects
 				(font
@@ -129772,7 +129773,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "100"
 			(at 78.74 -120.015 90)
 			(effects
 				(font
@@ -130435,7 +130436,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "680p"
 			(at 245.11 452.755 90)
 			(effects
 				(font
@@ -134397,7 +134398,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 140.97 -121.285 90)
 			(effects
 				(font
@@ -138059,7 +138060,7 @@
 				)
 			)
 		)
-		(property "Value" "47kΩ"
+		(property "Value" "47k"
 			(at 1395.095 -143.51 90)
 			(effects
 				(font
@@ -138643,7 +138644,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2kΩ"
+		(property "Value" "2.2k"
 			(at 156.845 -87.63 90)
 			(effects
 				(font
@@ -141923,7 +141924,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 238.76 -128.905 90)
 			(effects
 				(font
@@ -142437,7 +142438,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "100"
 			(at 125.73 -109.22 90)
 			(effects
 				(font
@@ -142814,7 +142815,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "100"
 			(at 179.07 -109.855 90)
 			(effects
 				(font
@@ -142881,7 +142882,7 @@
 				)
 			)
 		)
-		(property "Value" "47kΩ"
+		(property "Value" "47k"
 			(at 1306.195 -132.08 90)
 			(effects
 				(font
@@ -143582,7 +143583,7 @@
 		(fields_autoplaced yes)
 		(uuid "6e9bf224-5d33-4ef8-9be2-a5be40265a01")
 		(property "Reference" "C65"
-			(at 693.42 -161.29 0)
+			(at 693.42 -161.2901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -143590,8 +143591,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
-			(at 693.42 -158.75 0)
+		(property "Value" "680p"
+			(at 693.42 -158.7501 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -147207,7 +147208,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7kΩ"
+		(property "Value" "4.7k"
 			(at 1080.135 -125.73 90)
 			(effects
 				(font
@@ -150596,7 +150597,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "100"
 			(at 210.82 -113.03 90)
 			(effects
 				(font
@@ -150827,15 +150828,15 @@
 		(fields_autoplaced yes)
 		(uuid "7b6caad4-daab-4fd2-acde-052ca170fb77")
 		(property "Reference" "C29"
-			(at 1381.76 144.145 90)
+			(at 1381.76 143.51 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "C"
-			(at 1381.76 146.685 90)
+		(property "Value" "0.01u"
+			(at 1381.76 146.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -154589,7 +154590,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "680p"
 			(at 504.19 513.715 90)
 			(effects
 				(font
@@ -155806,7 +155807,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1M"
 			(at 1708.785 64.77 90)
 			(effects
 				(font
@@ -158427,7 +158428,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.7k"
 			(at 1087.755 -40.64 90)
 			(effects
 				(font
@@ -158833,15 +158834,15 @@
 		(fields_autoplaced yes)
 		(uuid "8ac683d4-2ef0-4ba6-9dc4-2468a10d7d4f")
 		(property "Reference" "RV1"
-			(at 754.38 -113.03 90)
+			(at 754.38 -111.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "R_Potentiometer"
-			(at 754.38 -110.49 90)
+		(property "Value" "20k"
+			(at 754.38 -109.22 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -160469,7 +160470,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "47k"
 			(at 1294.765 -127 90)
 			(effects
 				(font
@@ -161607,7 +161608,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.7k"
 			(at 1080.135 -22.86 90)
 			(effects
 				(font
@@ -162955,7 +162956,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33u 10V"
+		(property "Value" "10u 10V"
 			(at 803.91 -31.369 0)
 			(effects
 				(font
@@ -163196,7 +163197,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "220u 10V"
 			(at 1245.235 93.091 0)
 			(effects
 				(font
@@ -163638,7 +163639,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 810.895 -39.37 90)
 			(effects
 				(font
@@ -163705,7 +163706,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "47k"
 			(at 741.045 -39.37 90)
 			(effects
 				(font
@@ -167371,7 +167372,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2kΩ"
+		(property "Value" "2.2k"
 			(at 150.495 -87.63 90)
 			(effects
 				(font
@@ -169385,7 +169386,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 196.85 -118.745 90)
 			(effects
 				(font
@@ -170324,7 +170325,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 96.52 -127.635 90)
 			(effects
 				(font
@@ -170628,7 +170629,7 @@
 				)
 			)
 		)
-		(property "Value" "47kΩ"
+		(property "Value" "47k"
 			(at 1351.915 -135.89 90)
 			(effects
 				(font
@@ -172864,7 +172865,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "100"
 			(at 123.19 -117.475 90)
 			(effects
 				(font
@@ -172931,7 +172932,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "680p"
 			(at 846.455 840.74 90)
 			(effects
 				(font
@@ -177748,7 +177749,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "100"
 			(at -102.235 -292.1 90)
 			(effects
 				(font
@@ -179965,7 +179966,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 123.19 -123.825 90)
 			(effects
 				(font
@@ -181634,7 +181635,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "680p"
 			(at 876.3 -76.835 90)
 			(effects
 				(font
@@ -182876,7 +182877,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "680p"
 			(at 1446.53 -343.535 90)
 			(effects
 				(font
@@ -184530,7 +184531,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.7k"
 			(at 1138.555 -27.94 90)
 			(effects
 				(font
@@ -184701,7 +184702,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 189.23 -124.46 90)
 			(effects
 				(font
@@ -184769,7 +184770,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "680p"
 			(at 1261.11 -149.225 90)
 			(effects
 				(font
@@ -184823,12 +184824,12 @@
 	(symbol
 		(lib_id "Device:C")
 		(at 406.4 487.68 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ba2407b2-0050-4851-813e-b8bcd2dd0b12")
 		(property "Reference" "C36"
 			(at 406.4 495.3 90)
@@ -184838,7 +184839,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "680p"
 			(at 406.4 492.76 90)
 			(effects
 				(font
@@ -184847,7 +184848,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
-			(at 410.21 486.7148 0)
+			(at 410.21 488.6452 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -186421,7 +186422,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "680p"
 			(at 457.835 -17.78 90)
 			(effects
 				(font
@@ -188596,7 +188597,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "100"
 			(at 228.6 -117.475 90)
 			(effects
 				(font
@@ -189638,15 +189639,15 @@
 		(fields_autoplaced yes)
 		(uuid "c25a88ca-777c-45f5-b834-936d7e29964a")
 		(property "Reference" "C37"
-			(at 748.03 -485.14 90)
+			(at 748.03 -483.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "C"
-			(at 748.03 -482.6 90)
+		(property "Value" "0.01u"
+			(at 748.03 -481.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -190430,7 +190431,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "680p"
 			(at 1443.355 -309.88 90)
 			(effects
 				(font
@@ -191435,7 +191436,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "100"
 			(at 180.34 -139.065 90)
 			(effects
 				(font
@@ -192960,7 +192961,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "680p"
 			(at 1138.555 -64.77 90)
 			(effects
 				(font
@@ -194467,7 +194468,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "680p"
 			(at 1085.215 -40.64 90)
 			(effects
 				(font
@@ -195048,7 +195049,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 340.995 -274.32 90)
 			(effects
 				(font
@@ -195569,7 +195570,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7kΩ"
+		(property "Value" "4.7k"
 			(at 1276.985 -16.51 90)
 			(effects
 				(font
@@ -196046,7 +196047,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 210.82 -121.285 90)
 			(effects
 				(font
@@ -196114,7 +196115,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "680p"
 			(at 337.82 -42.545 90)
 			(effects
 				(font
@@ -197302,7 +197303,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "100"
 			(at 177.8 -119.38 90)
 			(effects
 				(font
@@ -198740,7 +198741,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 125.73 -116.205 90)
 			(effects
 				(font
@@ -199101,7 +199102,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "22u 16V"
 			(at 734.441 -123.825 0)
 			(effects
 				(font
@@ -203922,21 +203923,21 @@
 		(fields_autoplaced yes)
 		(uuid "e011f301-be56-4883-ae29-510396cb9879")
 		(property "Reference" "C41"
-			(at 707.39 -135.89 0)
+			(at 715.01 -135.8901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "C"
-			(at 707.39 -133.35 0)
+		(property "Value" "680p"
+			(at 715.01 -133.3501 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
@@ -204304,7 +204305,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "680p"
 			(at 967.105 581.66 90)
 			(effects
 				(font
@@ -205118,34 +205119,32 @@
 	(symbol
 		(lib_id "Device:C")
 		(at 692.15 -102.87 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e1b184ca-ba1c-4c5b-8e61-10ea0025225c")
 		(property "Reference" "C47"
-			(at 688.34 -104.14 0)
+			(at 688.34 -104.1401 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "C"
-			(at 688.34 -101.6 0)
+		(property "Value" "0.01u"
+			(at 688.34 -101.6001 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
-			(at 691.1848 -99.06 0)
+			(at 693.1152 -99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -205371,7 +205370,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 167.64 -74.295 90)
 			(effects
 				(font
@@ -205676,7 +205675,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "2.2M"
 			(at 1414.145 160.02 90)
 			(effects
 				(font
@@ -205744,7 +205743,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "3.3k"
 			(at 1023.62 899.16 90)
 			(effects
 				(font
@@ -207356,7 +207355,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "680p"
 			(at 439.42 323.85 90)
 			(effects
 				(font
@@ -209472,7 +209471,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "100"
 			(at 196.85 -112.395 90)
 			(effects
 				(font
@@ -209665,15 +209664,15 @@
 		(fields_autoplaced yes)
 		(uuid "eb7c77c0-6257-4c1f-83b0-778e50822915")
 		(property "Reference" "C49"
-			(at -93.98 -311.15 90)
+			(at -93.98 -309.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "C"
-			(at -93.98 -308.61 90)
+		(property "Value" "0.1u"
+			(at -93.98 -307.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -210020,7 +210019,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "47k"
 			(at 908.685 -260.35 90)
 			(effects
 				(font
@@ -210082,15 +210081,15 @@
 		(fields_autoplaced yes)
 		(uuid "ec6f8f81-689d-4eb7-ab16-d15482c38c66")
 		(property "Reference" "R68"
-			(at 158.75 -97.79 90)
+			(at 158.75 -96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 158.75 -95.25 90)
+		(property "Value" "1k"
+			(at 158.75 -93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -210641,7 +210640,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10kΩ"
+		(property "Value" "10k"
 			(at 1231.9 -110.4901 0)
 			(effects
 				(font
@@ -211327,7 +211326,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33u 10V"
+		(property "Value" "10u 10V"
 			(at 334.645 -266.319 0)
 			(effects
 				(font
@@ -211597,7 +211596,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1u"
 			(at 1324.61 -41.275 90)
 			(effects
 				(font
@@ -213204,7 +213203,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "3.3k"
 			(at 1013.46 867.41 90)
 			(effects
 				(font
@@ -213382,7 +213381,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "680p"
 			(at 422.91 -19.685 90)
 			(effects
 				(font
@@ -214217,7 +214216,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "100"
 			(at 128.27 -137.795 90)
 			(effects
 				(font
@@ -215748,15 +215747,15 @@
 		(fields_autoplaced yes)
 		(uuid "f5460fa8-ca8c-47d1-a984-2cad4e1de7c2")
 		(property "Reference" "C22"
-			(at 1708.531 53.975 90)
+			(at 1708.531 53.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "C_Polarized"
-			(at 1708.531 56.515 90)
+		(property "Value" "0.33u"
+			(at 1708.531 55.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -217347,7 +217346,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 110.49 -128.905 90)
 			(effects
 				(font
@@ -217547,7 +217546,7 @@
 				)
 			)
 		)
-		(property "Value" "470Ω"
+		(property "Value" "470"
 			(at 204.47 -126.365 90)
 			(effects
 				(font
@@ -218328,7 +218327,7 @@
 				)
 			)
 		)
-		(property "Value" "22kΩ"
+		(property "Value" "22k"
 			(at 741.68 -108.585 90)
 			(effects
 				(font
@@ -219011,7 +219010,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7kΩ"
+		(property "Value" "4.7k"
 			(at 1086.485 -130.81 90)
 			(effects
 				(font
@@ -219605,7 +219604,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ω"
+		(property "Value" "100"
 			(at 110.49 -122.555 90)
 			(effects
 				(font
@@ -221016,7 +221015,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "220"
 			(at 449.58 -32.385 90)
 			(effects
 				(font
@@ -221083,7 +221082,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.7k"
 			(at 783.59 -147.955 90)
 			(effects
 				(font
